@@ -1,1 +1,0 @@
-Solutions to Leetcode problems I work on for fun. I am not a programmer so this is more of a fun learning exercise.
